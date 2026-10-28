@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"stoppinibeatriceprova","c":"StoppiniBeatriceProva","l":"main(String[])","u":"main(java.lang.String[])","k":"6"},{"p":"<Unnamed>","c":"prova1","l":"prova1()","u":"%3Cinit%3E()","k":"3"},{"p":"stoppinibeatriceprova","c":"StoppiniBeatriceProva","l":"StoppiniBeatriceProva()","u":"%3Cinit%3E()","k":"3"}];updateSearchResults();
